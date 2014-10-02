@@ -1,0 +1,115 @@
+
+  on comence le traitement : 
+
+
+ chemin de la diago 175 recherche CheminUnVersDeux
+
+ 
+ numDiag :118  coti :2  seq num :1 
+ numDiag :118  coti :1  seq num :0 
+ numDiag :162  coti :1  seq num :0 
+ numDiag :162  coti :2  seq num :2
+
+ chemin de la diago 175 recherche CheminDeuxVersUn
+
+ 
+ numDiag :162  coti :2  seq num :2 
+ numDiag :162  coti :1  seq num :0 
+ numDiag :118  coti :1  seq num :0 
+ numDiag :118  coti :2  seq num :1
+
+ chemin de la diago 213 recherche CheminUnVersDeux
+
+ 
+ numDiag :102  coti :1  seq num :0 
+ numDiag :102  coti :2  seq num :2 
+ numDiag :204  coti :2  seq num :2 
+ numDiag :204  coti :1  seq num :1
+
+ chemin de la diago 213 recherche CheminDeuxVersUn
+
+ 
+ numDiag :204  coti :1  seq num :1 
+ numDiag :204  coti :2  seq num :2 
+ numDiag :102  coti :2  seq num :2 
+ numDiag :102  coti :1  seq num :0
+
+ chemin de la diago 214 recherche CheminUnVersDeux
+
+ 
+ numDiag :21  coti :1  seq num :0 
+ numDiag :21  coti :2  seq num :2 
+ numDiag :203  coti :2  seq num :2 
+ numDiag :203  coti :1  seq num :1
+
+ chemin de la diago 214 recherche CheminDeuxVersUn
+
+ 
+ numDiag :203  coti :1  seq num :1 
+ numDiag :203  coti :2  seq num :2 
+ numDiag :21  coti :2  seq num :2 
+ numDiag :21  coti :1  seq num :0
+
+ chemin de la diago 220 recherche CheminUnVersDeux
+
+ 
+ numDiag :181  coti :1  seq num :0 
+ numDiag :181  coti :2  seq num :2 
+ numDiag :48  coti :2  seq num :2 
+ numDiag :48  coti :1  seq num :1
+
+ chemin de la diago 220 recherche CheminDeuxVersUn
+
+ 
+ numDiag :48  coti :1  seq num :1 
+ numDiag :48  coti :2  seq num :2 
+ numDiag :181  coti :2  seq num :2 
+ numDiag :181  coti :1  seq num :0
+
+ chemin de la diago 251 recherche CheminUnVersDeux
+
+ 
+ numDiag :185  coti :2  seq num :1 
+ numDiag :185  coti :1  seq num :0 
+ numDiag :231  coti :1  seq num :0 
+ numDiag :231  coti :2  seq num :2
+
+ chemin de la diago 251 recherche CheminDeuxVersUn
+
+ 
+ numDiag :231  coti :2  seq num :2 
+ numDiag :231  coti :1  seq num :0 
+ numDiag :185  coti :1  seq num :0 
+ numDiag :185  coti :2  seq num :1
+
+ chemin de la diago 265 recherche CheminUnVersDeux
+
+ 
+ numDiag :211  coti :1  seq num :0 
+ numDiag :211  coti :2  seq num :2 
+ numDiag :173  coti :2  seq num :2 
+ numDiag :173  coti :1  seq num :1
+
+ chemin de la diago 265 recherche CheminDeuxVersUn
+
+ 
+ numDiag :173  coti :1  seq num :1 
+ numDiag :173  coti :2  seq num :2 
+ numDiag :211  coti :2  seq num :2 
+ numDiag :211  coti :1  seq num :0
+
+ chemin de la diago 291 recherche CheminUnVersDeux
+
+ 
+ numDiag :255  coti :1  seq num :0 
+ numDiag :255  coti :2  seq num :1 
+ numDiag :267  coti :1  seq num :1 
+ numDiag :267  coti :2  seq num :2
+
+ chemin de la diago 291 recherche CheminDeuxVersUn
+
+ 
+ numDiag :267  coti :2  seq num :2 
+ numDiag :267  coti :1  seq num :1 
+ numDiag :255  coti :2  seq num :1 
+ numDiag :255  coti :1  seq num :0

@@ -1,0 +1,334 @@
+
+  les diagonales Consistantes Supp Sous D :  
+
+
+
+ nombre de diagonale 82
+
+ La diagonale n=° 0 a un poids : 26.5113 
+ S n=° 0 ; debut 195 : 'GGGCAGGACAAGATCCGGCCCCTCTGG' : fin 221 
+ S n=° 2 ; debut 207 : 'GGCCAGGACAAGATCCGGCCCCTGTGG' : fin 233
+
+ La diagonale n=° 1 a un poids : 24.7836 
+ S n=° 0 ; debut 355 : 'TCTTCGCCAACAAGCAGGACCTGCCC' : fin 380 
+ S n=° 2 ; debut 367 : 'TGTTCGCCAACAAGCAGGACCTCCCC' : fin 392
+
+ La diagonale n=° 2 a un poids : 22.3535 
+ S n=° 1 ; debut 185 : 'CTTCACTGTCTGGGACGTCGGTGG' : fin 208 
+ S n=° 2 ; debut 185 : 'CTTCACTGTGTGGGACGTGGGTGG' : fin 208
+
+ La diagonale n=° 3 a un poids : 20.8579 
+ S n=° 0 ; debut 251 : 'GATCTTCGTGGTGGACTGC' : fin 269 
+ S n=° 2 ; debut 263 : 'GATCTTCGTGGTGGACAGC' : fin 281
+
+ La diagonale n=° 4 a un poids : 20.7637 
+ S n=° 1 ; debut 184 : 'CCTTCACTGTCTGGGACGTCGGTGG' : fin 208 
+ S n=° 2 ; debut 184 : 'GCTTCACTGTGTGGGACGTGGGTGG' : fin 208
+
+ La diagonale n=° 5 a un poids : 19.4963 
+ S n=° 1 ; debut 183 : 'TCCTTCACTGTCTGGGACGTCGGTGG' : fin 208 
+ S n=° 2 ; debut 183 : 'AGCTTCACTGTGTGGGACGTGGGTGG' : fin 208
+
+ La diagonale n=° 6 a un poids : 19.4963 
+ S n=° 0 ; debut 39 : 'ATGCGGATCCTGATGCTGGGGCTGGA' : fin 64 
+ S n=° 2 ; debut 51 : 'ATGCGCATCCTCATGGTGGGCCTGGA' : fin 76
+
+ La diagonale n=° 7 a un poids : 13.4387 
+ S n=° 0 ; debut 78 : 'ACCACCATCCTGTACAA' : fin 94 
+ S n=° 2 ; debut 90 : 'ACCACGATCCTCTACAA' : fin 106
+
+ La diagonale n=° 8 a un poids : 11.7314 
+ S n=° 0 ; debut 250 : 'TGATCTTCGTGGTGGACTGC' : fin 269 
+ S n=° 2 ; debut 262 : 'TGATCTTCGTGGTGGACAGC' : fin 281
+
+ La diagonale n=° 9 a un poids : 10.7087 
+ S n=° 0 ; debut 113 : 'CGTCACCACCAT' : fin 124 
+ S n=° 2 ; debut 125 : 'CGTGACCACCAT' : fin 136
+
+ La diagonale n=° 10 a un poids : 10.7087 
+ S n=° 0 ; debut 21 : 'ATCTTCGGCAAC' : fin 32 
+ S n=° 2 ; debut 9 : 'ATCTTCGCCAAC' : fin 20
+
+ La diagonale n=° 11 a un poids : 10.4869 
+ S n=° 0 ; debut 225 : 'CACTACTACAC' : fin 235 
+ S n=° 1 ; debut 237 : 'CACTACTACAG' : fin 247
+
+ La diagonale n=° 12 a un poids : 10.4869 
+ S n=° 0 ; debut 483 : 'CTCTACGAAGG' : fin 493 
+ S n=° 1 ; debut 495 : 'CTGTACGAAGG' : fin 505
+
+ La diagonale n=° 13 a un poids : 10.429 
+ S n=° 1 ; debut 35 : 'TTTTGGCAA' : fin 43 
+ S n=° 2 ; debut 35 : 'TTTTGGCAA' : fin 43
+
+ La diagonale n=° 14 a un poids : 10.429 
+ S n=° 0 ; debut 290 : 'CGAGGCCCG' : fin 298 
+ S n=° 2 ; debut 302 : 'CGAGGCCCG' : fin 310
+
+ La diagonale n=° 15 a un poids : 10.429 
+ S n=° 0 ; debut 140 : 'CAACGTGGA' : fin 148 
+ S n=° 2 ; debut 152 : 'CAACGTGGA' : fin 160
+
+ La diagonale n=° 16 a un poids : 10.429 
+ S n=° 1 ; debut 488 : 'TGAAGGTCTG' : fin 497 
+ S n=° 2 ; debut 500 : 'TGAAGGACTG' : fin 509
+
+ La diagonale n=° 17 a un poids : 10.3347 
+ S n=° 0 ; debut 17 : 'CAAGATCTTCGGCAAC' : fin 32 
+ S n=° 2 ; debut 5 : 'GAACATCTTCGCCAAC' : fin 20
+
+ La diagonale n=° 18 a un poids : 9.57909 
+ S n=° 0 ; debut 16 : 'CCAAGATCTTCGGCAAC' : fin 32 
+ S n=° 2 ; debut 4 : 'GGAACATCTTCGCCAAC' : fin 20
+
+ La diagonale n=° 19 a un poids : 9.28085 
+ S n=° 0 ; debut 480 : 'GGACTCTACGAAGG' : fin 493 
+ S n=° 1 ; debut 492 : 'GGTCTGTACGAAGG' : fin 505
+
+ La diagonale n=° 20 a un poids : 7.84326 
+ S n=° 0 ; debut 197 : 'GCAGGACAAGA' : fin 207 
+ S n=° 1 ; debut 204 : 'GGTGGACAAGA' : fin 214
+
+ La diagonale n=° 21 a un poids : 7.84326 
+ S n=° 0 ; debut 453 : 'CAGCCCTCCTG' : fin 463 
+ S n=° 2 ; debut 465 : 'CAGGCCACCTG' : fin 475
+
+ La diagonale n=° 22 a un poids : 7.84326 
+ S n=° 0 ; debut 223 : 'GGCACTACTAC' : fin 233 
+ S n=° 2 ; debut 235 : 'GCCACTACTTC' : fin 245
+
+ La diagonale n=° 23 a un poids : 7.7853 
+ S n=° 1 ; debut 150 : 'TTCAACGT' : fin 157 
+ S n=° 2 ; debut 150 : 'TTCAACGT' : fin 157
+
+ La diagonale n=° 24 a un poids : 7.7853 
+ S n=° 1 ; debut 132 : 'ACCATTCC' : fin 139 
+ S n=° 2 ; debut 132 : 'ACCATTCC' : fin 139
+
+ La diagonale n=° 25 a un poids : 7.7853 
+ S n=° 1 ; debut 352 : 'ATGCTGTC' : fin 359 
+ S n=° 2 ; debut 352 : 'ATGCTGTC' : fin 359
+
+ La diagonale n=° 26 a un poids : 7.7853 
+ S n=° 1 ; debut 87 : 'AAGACCACC' : fin 95 
+ S n=° 2 ; debut 87 : 'AAGACCACG' : fin 95
+
+ La diagonale n=° 27 a un poids : 7.7853 
+ S n=° 1 ; debut 174 : 'AAGAACAT' : fin 181 
+ S n=° 2 ; debut 174 : 'AAGAACAT' : fin 181
+
+ La diagonale n=° 28 a un poids : 7.7853 
+ S n=° 1 ; debut 237 : 'CACTACTAC' : fin 245 
+ S n=° 2 ; debut 237 : 'CACTACTTC' : fin 245
+
+ La diagonale n=° 29 a un poids : 7.7853 
+ S n=° 0 ; debut 414 : 'CTGGGCCTG' : fin 422 
+ S n=° 2 ; debut 426 : 'CTGGGGCTG' : fin 434
+
+ La diagonale n=° 30 a un poids : 7.7853 
+ S n=° 0 ; debut 180 : 'GTGTGGGA' : fin 187 
+ S n=° 2 ; debut 192 : 'GTGTGGGA' : fin 199
+
+ La diagonale n=° 31 a un poids : 7.7853 
+ S n=° 0 ; debut 381 : 'GATGCCATGA' : fin 390 
+ S n=° 1 ; debut 393 : 'GAAGCCATGT' : fin 402
+
+ La diagonale n=° 32 a un poids : 7.7853 
+ S n=° 0 ; debut 36 : 'GAGATGCG' : fin 43 
+ S n=° 1 ; debut 48 : 'GAGATGCG' : fin 55
+
+ La diagonale n=° 33 a un poids : 7.7853 
+ S n=° 0 ; debut 99 : 'AAGCTGGG' : fin 106 
+ S n=° 2 ; debut 111 : 'AAGCTGGG' : fin 118
+
+ La diagonale n=° 34 a un poids : 7.7853 
+ S n=° 0 ; debut 27 : 'GGCAACAA' : fin 34 
+ S n=° 1 ; debut 39 : 'GGCAACAA' : fin 46
+
+ La diagonale n=° 35 a un poids : 7.7853 
+ S n=° 0 ; debut 138 : 'TTCAACGT' : fin 145 
+ S n=° 1 ; debut 150 : 'TTCAACGT' : fin 157
+
+ La diagonale n=° 36 a un poids : 7.7853 
+ S n=° 1 ; debut 478 : 'CAACCTCGGG' : fin 487 
+ S n=° 2 ; debut 422 : 'CAAGCTGGGG' : fin 431
+
+ La diagonale n=° 37 a un poids : 5.93311 
+ S n=° 0 ; debut 196 : 'GGCAGGACAAGA' : fin 207 
+ S n=° 1 ; debut 203 : 'CGGTGGACAAGA' : fin 214
+
+ La diagonale n=° 38 a un poids : 5.65336 
+ S n=° 1 ; debut 141 : 'ACCATTGG' : fin 148 
+ S n=° 2 ; debut 141 : 'ACCATAGG' : fin 148
+
+ La diagonale n=° 39 a un poids : 5.65336 
+ S n=° 1 ; debut 366 : 'GTCTTCGC' : fin 373 
+ S n=° 2 ; debut 366 : 'GTGTTCGC' : fin 373
+
+ La diagonale n=° 40 a un poids : 5.65336 
+ S n=° 1 ; debut 100 : 'TGTACAAG' : fin 107 
+ S n=° 2 ; debut 100 : 'TCTACAAG' : fin 107
+
+ La diagonale n=° 41 a un poids : 5.65336 
+ S n=° 1 ; debut 75 : 'GATGGTGC' : fin 82 
+ S n=° 2 ; debut 75 : 'GATGCTGC' : fin 82
+
+ La diagonale n=° 42 a un poids : 5.65336 
+ S n=° 0 ; debut 170 : 'CAAGTTCAAC' : fin 179 
+ S n=° 2 ; debut 173 : 'CAAGAACATC' : fin 182
+
+ La diagonale n=° 43 a un poids : 5.65336 
+ S n=° 0 ; debut 509 : 'GTCCAAT' : fin 515 
+ S n=° 2 ; debut 518 : 'GTCCAAT' : fin 524
+
+ La diagonale n=° 44 a un poids : 5.65336 
+ S n=° 0 ; debut 88 : 'TGTACAA' : fin 94 
+ S n=° 1 ; debut 100 : 'TGTACAA' : fin 106
+
+ La diagonale n=° 45 a un poids : 5.65336 
+ S n=° 0 ; debut 355 : 'TCTTCGC' : fin 361 
+ S n=° 1 ; debut 367 : 'TCTTCGC' : fin 373
+
+ La diagonale n=° 46 a un poids : 5.65336 
+ S n=° 0 ; debut 300 : 'CAGGAGCTG' : fin 308 
+ S n=° 2 ; debut 312 : 'GAGGAGCTC' : fin 320
+
+ La diagonale n=° 47 a un poids : 5.65336 
+ S n=° 0 ; debut 474 : 'GGGGACGG' : fin 481 
+ S n=° 2 ; debut 486 : 'GGCGACGG' : fin 493
+
+ La diagonale n=° 48 a un poids : 5.65336 
+ S n=° 0 ; debut 180 : 'GTGTGGGA' : fin 187 
+ S n=° 1 ; debut 192 : 'GTCTGGGA' : fin 199
+
+ La diagonale n=° 49 a un poids : 5.65336 
+ S n=° 0 ; debut 501 : 'TGGTTAACGT' : fin 510 
+ S n=° 1 ; debut 513 : 'TGGTTAAGCA' : fin 522
+
+ La diagonale n=° 50 a un poids : 5.65336 
+ S n=° 0 ; debut 273 : 'GATCGCGA' : fin 280 
+ S n=° 1 ; debut 289 : 'GATCGCGT' : fin 296
+
+ La diagonale n=° 51 a un poids : 5.65336 
+ S n=° 1 ; debut 269 : 'TGTCATCGA' : fin 277 
+ S n=° 2 ; debut 296 : 'TGTGAACGA' : fin 304
+
+ La diagonale n=° 52 a un poids : 4.67142 
+ S n=° 0 ; debut 384 : 'GCCATGAAACCCC' : fin 396 
+ S n=° 2 ; debut 396 : 'GCCATGAATGCGG' : fin 408
+
+ La diagonale n=° 53 a un poids : 4.20548 
+ S n=° 0 ; debut 49 : 'TGATGCTGGGGCT' : fin 61 
+ S n=° 1 ; debut 74 : 'AGATGGTGCCGGT' : fin 86
+
+ La diagonale n=° 54 a un poids : 3.98369 
+ S n=° 0 ; debut 403 : 'TCCAGGAGAAA' : fin 413 
+ S n=° 1 ; debut 404 : 'TGCTGCTGAAA' : fin 414
+
+ La diagonale n=° 55 a un poids : 3.98369 
+ S n=° 0 ; debut 169 : 'TCAAGTTCAAC' : fin 179 
+ S n=° 2 ; debut 172 : 'ACAAGAACATC' : fin 182
+
+ La diagonale n=° 56 a un poids : 3.92573 
+ S n=° 1 ; debut 396 : 'GCCATGT' : fin 402 
+ S n=° 2 ; debut 396 : 'GCCATGA' : fin 402
+
+ La diagonale n=° 57 a un poids : 3.92573 
+ S n=° 0 ; debut 319 : 'TCAACGACAG' : fin 328 
+ S n=° 1 ; debut 316 : 'TCATGCAGAG' : fin 325
+
+ La diagonale n=° 58 a un poids : 3.92573 
+ S n=° 0 ; debut 103 : 'TGGGCCA' : fin 109 
+ S n=° 1 ; debut 115 : 'TGGGCGA' : fin 121
+
+ La diagonale n=° 59 a un poids : 3.92573 
+ S n=° 0 ; debut 334 : 'TGCGGGA' : fin 340 
+ S n=° 2 ; debut 346 : 'TCCGGGA' : fin 352
+
+ La diagonale n=° 60 a un poids : 3.92573 
+ S n=° 0 ; debut 427 : 'GGATCAGG' : fin 434 
+ S n=° 2 ; debut 451 : 'GGAACTGG' : fin 458
+
+ La diagonale n=° 61 a un poids : 2.79799 
+ S n=° 0 ; debut 135 : 'GGCTTCAACGTGGA' : fin 148 
+ S n=° 2 ; debut 147 : 'GGCTTCAACGTGGA' : fin 160
+
+ La diagonale n=° 62 a un poids : 2.54942 
+ S n=° 0 ; debut 171 : 'AAGTTCAA' : fin 178 
+ S n=° 1 ; debut 174 : 'AAGAACAT' : fin 181
+
+ La diagonale n=° 63 a un poids : 2.54942 
+ S n=° 1 ; debut 317 : 'CATGCAG' : fin 323 
+ S n=° 2 ; debut 326 : 'GATGCTG' : fin 332
+
+ La diagonale n=° 64 a un poids : 2.54942 
+ S n=° 1 ; debut 57 : 'ATACTTATGG' : fin 66 
+ S n=° 2 ; debut 45 : 'AAAGAAATGC' : fin 54
+
+ La diagonale n=° 65 a un poids : 2.54942 
+ S n=° 0 ; debut 10 : 'TGCTATC' : fin 16 
+ S n=° 1 ; debut 27 : 'AGCAATC' : fin 33
+
+ La diagonale n=° 66 a un poids : 2.54942 
+ S n=° 0 ; debut 9 : 'GTGCTATC' : fin 16 
+ S n=° 1 ; debut 26 : 'CAGCAATC' : fin 33
+
+ La diagonale n=° 67 a un poids : 2.54942 
+ S n=° 0 ; debut 120 : 'ACCATCC' : fin 126 
+ S n=° 1 ; debut 137 : 'TCCAACC' : fin 143
+
+ La diagonale n=° 68 a un poids : 2.54942 
+ S n=° 0 ; debut 348 : 'ATCCTCAT' : fin 355 
+ S n=° 1 ; debut 327 : 'ATGCTGAA' : fin 334
+
+ La diagonale n=° 69 a un poids : 1.55351 
+ S n=° 1 ; debut 56 : 'TATACTTATGG' : fin 66 
+ S n=° 2 ; debut 44 : 'AAAAGAAATGC' : fin 54
+
+ La diagonale n=° 70 a un poids : 1.49555 
+ S n=° 1 ; debut 306 : 'GCCAGAG' : fin 312 
+ S n=° 2 ; debut 308 : 'CCGTGAG' : fin 314
+
+ La diagonale n=° 71 a un poids : 1.49555 
+ S n=° 0 ; debut 472 : 'CAGGGGAC' : fin 479 
+ S n=° 1 ; debut 482 : 'CTCGGGTG' : fin 489
+
+ La diagonale n=° 72 a un poids : 1.49555 
+ S n=° 1 ; debut 68 : 'TGGTCTAG' : fin 75 
+ S n=° 2 ; debut 58 : 'TCCTCATG' : fin 65
+
+ La diagonale n=° 73 a un poids : 1.49555 
+ S n=° 1 ; debut 67 : 'TTGGTCTAG' : fin 75 
+ S n=° 2 ; debut 57 : 'ATCCTCATG' : fin 65
+
+ La diagonale n=° 74 a un poids : 1.49555 
+ S n=° 1 ; debut 504 : 'GGTCTGGA' : fin 511 
+ S n=° 2 ; debut 515 : 'GCTGTCCA' : fin 522
+
+ La diagonale n=° 75 a un poids : 1.49555 
+ S n=° 1 ; debut 247 : 'GAAACAC' : fin 253 
+ S n=° 2 ; debut 281 : 'CAATGAC' : fin 287
+
+ La diagonale n=° 76 a un poids : 1.32669 
+ S n=° 1 ; debut 33 : 'CTTTTTGGCAA' : fin 43 
+ S n=° 2 ; debut 33 : 'CTTTTTGGCAA' : fin 43
+
+ La diagonale n=° 77 a un poids : 1.30244 
+ S n=° 0 ; debut 289 : 'ACGAGGCCCG' : fin 298 
+ S n=° 2 ; debut 301 : 'ACGAGGCCCG' : fin 310
+
+ La diagonale n=° 78 a un poids : 0.745689 
+ S n=° 1 ; debut 222 : 'AGATCTT' : fin 228 
+ S n=° 2 ; debut 214 : 'ACAAGAT' : fin 220
+
+ La diagonale n=° 79 a un poids : 0.279747 
+ S n=° 1 ; debut 11 : 'CGCTTCTA' : fin 18 
+ S n=° 2 ; debut 3 : 'GGGAACAT' : fin 10
+
+ La diagonale n=° 80 a un poids : 0.279747 
+ S n=° 1 ; debut 467 : 'GTCTACT' : fin 473 
+ S n=° 2 ; debut 411 : 'GAGATCA' : fin 417
+
+ La diagonale n=° 81 a un poids : 0.0579613 
+ S n=° 0 ; debut 320 : 'CAACGAC' : fin 326 
+ S n=° 2 ; debut 326 : 'GATGCTG' : fin 332
